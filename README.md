@@ -12,6 +12,5 @@
   - [Greedy](https://github.com/hernandezr-jcesar/Analysis-And-Design-Of-Algorithms/tree/main/Greedy)
     
 - <b>Programacion Dinamica</b>
-  - [Dynamic Programming](https://github.com/hernandezr-jcesar/Analysis-And-Design-Of-Algorithms/tree/main/ProgramacionDinamica
-  - )
+  - [Dynamic Programming](https://github.com/hernandezr-jcesar/Analysis-And-Design-Of-Algorithms/tree/main/ProgramacionDinamica)
   
